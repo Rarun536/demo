@@ -7,7 +7,7 @@ public class ArrayList2D {
         Scanner scanner = new Scanner(System.in);
         ArrayList<ArrayList<Integer>> list = new ArrayList<>();
 
-        for (int i = 0; i < 3; i++) {
+        for (int i = 0; i < 5; i++) {
             list.add(new ArrayList<>());
 
         }
