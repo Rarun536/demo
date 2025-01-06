@@ -17,7 +17,7 @@ public class ArrayList2D {
             }
 
         }
-        System.out.println(list);
+        System.out.println("THIS IS LIST :" + list);
         scanner.close();
     }
 }
